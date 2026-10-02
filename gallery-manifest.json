@@ -1,0 +1,72 @@
+{
+  "warehouses": [
+    "assets/gallery/warehouses/warehouses-01.jpeg",
+    "assets/gallery/warehouses/warehouses-02.jpeg",
+    "assets/gallery/warehouses/warehouses-03.jpeg",
+    "assets/gallery/warehouses/warehouses-04.jpeg",
+    "assets/gallery/warehouses/warehouses-05.jpeg",
+    "assets/gallery/warehouses/warehouses-06.jpeg",
+    "assets/gallery/warehouses/warehouses-07.jpeg",
+    "assets/gallery/warehouses/warehouses-08.jpeg",
+    "assets/gallery/warehouses/warehouses-09.jpeg",
+    "assets/gallery/warehouses/warehouses-10.jpeg",
+    "assets/gallery/warehouses/warehouses-11.jpeg",
+    "assets/gallery/warehouses/warehouses-12.jpeg",
+    "assets/gallery/warehouses/warehouses-13.jpeg",
+    "assets/gallery/warehouses/warehouses-14.jpeg",
+    "assets/gallery/warehouses/warehouses-15.jpeg",
+    "assets/gallery/warehouses/warehouses-16.jpeg",
+    "assets/gallery/warehouses/warehouses-17.jpeg",
+    "assets/gallery/warehouses/warehouses-18.jpeg",
+    "assets/gallery/warehouses/warehouses-19.jpeg",
+    "assets/gallery/warehouses/warehouses-20.jpeg"
+  ],
+  "steel": [
+    "assets/gallery/steel/steel-01.jpeg",
+    "assets/gallery/steel/steel-02.jpeg",
+    "assets/gallery/steel/steel-03.jpeg",
+    "assets/gallery/steel/steel-04.jpeg",
+    "assets/gallery/steel/steel-05.jpeg",
+    "assets/gallery/steel/steel-06.jpeg",
+    "assets/gallery/steel/steel-07.jpeg",
+    "assets/gallery/steel/steel-08.jpeg",
+    "assets/gallery/steel/steel-09.jpeg",
+    "assets/gallery/steel/steel-10.jpeg",
+    "assets/gallery/steel/steel-11.jpeg"
+  ],
+  "construction": [
+    "assets/gallery/construction/construction-01.jpeg",
+    "assets/gallery/construction/construction-02.jpeg",
+    "assets/gallery/construction/construction-03.jpeg",
+    "assets/gallery/construction/construction-04.jpeg",
+    "assets/gallery/construction/construction-05.jpeg",
+    "assets/gallery/construction/construction-06.jpeg",
+    "assets/gallery/construction/construction-07.jpeg",
+    "assets/gallery/construction/construction-08.jpeg",
+    "assets/gallery/construction/construction-09.jpeg"
+  ],
+  "foundations": [
+    "assets/gallery/foundations/foundations-01.jpeg",
+    "assets/gallery/foundations/foundations-02.jpeg",
+    "assets/gallery/foundations/foundations-03.jpeg",
+    "assets/gallery/foundations/foundations-04.jpeg",
+    "assets/gallery/foundations/foundations-05.jpeg",
+    "assets/gallery/foundations/foundations-06.jpeg"
+  ],
+  "kitchens": [
+    "assets/gallery/kitchens/kitchens-01.jpeg",
+    "assets/gallery/kitchens/kitchens-02.jpeg",
+    "assets/gallery/kitchens/kitchens-03.jpeg"
+  ],
+  "metal": [
+    "assets/gallery/metal/metal-01.jpeg",
+    "assets/gallery/metal/metal-02.jpeg",
+    "assets/gallery/metal/metal-03.jpeg"
+  ],
+  "finishing": [
+    "assets/gallery/finishing/finishing-01.jpeg",
+    "assets/gallery/finishing/finishing-02.jpeg",
+    "assets/gallery/finishing/finishing-03.jpeg",
+    "assets/gallery/finishing/finishing-04.jpeg"
+  ]
+}
